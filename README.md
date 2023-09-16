@@ -11,7 +11,6 @@ Feature engineering: Create meaningful features and transform data to improve mo
 
 -- Machine learning models: 
 Implement a variety of machine learning algorithms, such as logistic regression, nearest neighbors, support vector machines, decision trees, random forests and gradient reinforcement classifiers, to build predictive models.
-![image](https://github.com/Fabiano2415/Diabetes_prediction/assets/101226686/8e71f4aa-db31-4381-bbf6-de4d99dc4d22)
 
 ---- This import statement allows you to use the train_test_split function from Scikit-Learn to split your dataset into training and testing sets
 ---- The StandardScaler is used for standardizing features by removing the mean and scaling to unit variance. It's often used in preprocessing data before training machine learning models.
@@ -20,7 +19,6 @@ Implement a variety of machine learning algorithms, such as logistic regression,
 
 -- Graphical user interface (GUI): 
 Use of the Tkinter library to create an intuitive user interface, enabling users to interact with the model and obtain predictions in a convenient way.
-![image](https://github.com/Fabiano2415/Diabetes_prediction/assets/101226686/327d99a5-b8bf-4784-8209-3c78c60c025c)
 
 from tkinter import *
 This import statement allows us to create a graphical user interface (GUI) using the Tkinter library.
